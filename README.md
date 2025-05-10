@@ -1,4 +1,4 @@
-# Text-to-Code-to-DCD
+# Text-to-Code-to-DCD Action plan and notes
 
 🧠 AI Agent System Architecture Overview
 1. User Interaction Layer
@@ -26,12 +26,7 @@ Data Retrieval: APIs, web scraping tools.
 Communication: Email servers, messaging platforms.
 
 Deployment: Integration with cloud services like IONOS DCD for application deployment.
-Princeton CS Department
-+6
-Serverless
-+6
-Medium
-+6
+
 
 4. Memory and Learning Layer
 Persistent Storage: Databases to store user preferences, past interactions, and project states.
@@ -46,12 +41,7 @@ Compliance: Ensure data handling meets GDPR, HIPAA, or other relevant standards.
 
 🔗 Integration with Microsoft Copilot and MCP
 Microsoft's Model Context Protocol (MCP) facilitates seamless integration of AI agents into applications like Copilot Studio. By adopting MCP, your system can dynamically incorporate various tools and data sources, enhancing agent capabilities and adaptability. 
-CX Today
-+6
-Microsoft
-+6
-Visual Studio Magazine
-+6
+
 
 🚀 Deployment Strategy
 Serverless Functions: Utilize serverless architectures for scalable and cost-effective execution of agent tasks.
@@ -59,10 +49,7 @@ Serverless Functions: Utilize serverless architectures for scalable and cost-eff
 Containerization: For more complex or stateful services, deploy using containers orchestrated by platforms like Kubernetes.
 
 Edge Computing: Implement edge computing for latency-sensitive tasks, bringing computation closer to the data source.
-Medium
-+1
-DigitalOcean
-+1
+
 
 🛠️ Development Tools and Frameworks
 LangChain: Facilitates building complex agent workflows with memory and tool integration.
